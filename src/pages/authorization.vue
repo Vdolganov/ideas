@@ -69,7 +69,7 @@
 	.form-container
 		padding 20px
 		box-shadow 1px 1px 4px gray
-		width 800px
+		width 500px
 		margin 0 auto
 		border-radius 5px
 		height 350px
